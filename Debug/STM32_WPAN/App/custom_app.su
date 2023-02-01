@@ -1,0 +1,14 @@
+../STM32_WPAN/App/custom_app.c:105:6:Custom_STM_App_Notification	16	static
+../STM32_WPAN/App/custom_app.c:237:6:Custom_APP_Notification	16	static
+../STM32_WPAN/App/custom_app.c:274:6:Custom_APP_Init	8	static
+../STM32_WPAN/App/custom_app.c:297:6:Custom_Switch_c_Update_Char	8	static
+../STM32_WPAN/App/custom_app.c:306:6:Custom_Switch_c_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:322:6:Custom_Moc_Update_Char	8	static
+../STM32_WPAN/App/custom_app.c:331:6:Custom_Moc_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:347:6:Custom_Moc_Send_Indication	8	static
+../STM32_WPAN/App/custom_app.c:364:6:Custom_Hrs_m_Update_Char	8	static
+../STM32_WPAN/App/custom_app.c:373:6:Custom_Hrs_m_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:390:6:Custom_C1_Update_Char	8	static
+../STM32_WPAN/App/custom_app.c:399:6:Custom_C1_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:416:6:My_Action	8	static
+../STM32_WPAN/App/custom_app.c:428:6:Ask_My_Action	8	static

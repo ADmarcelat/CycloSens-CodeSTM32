@@ -1,0 +1,6 @@
+../STM32_WPAN/App/custom_stm.c:135:6:Mirror	16	static
+../STM32_WPAN/App/custom_stm.c:145:6:C3_NOTIFICATION	24	static
+../STM32_WPAN/App/custom_stm.c:171:12:Custom_Characteristic_Send	40	static
+../STM32_WPAN/App/custom_stm.c:209:30:Custom_STM_Event_Handler	128	static
+../STM32_WPAN/App/custom_stm.c:569:6:SVCCTL_InitCustomSvc	48	static
+../STM32_WPAN/App/custom_stm.c:746:12:Custom_STM_App_Update_Char	32	static

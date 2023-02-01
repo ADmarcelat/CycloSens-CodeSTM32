@@ -1,0 +1,2 @@
+../Core/Src/ecgMeasurement.c:31:6:calculateBPM	24	static
+../Core/Src/ecgMeasurement.c:63:6:checkIfQRSComplex	24	static

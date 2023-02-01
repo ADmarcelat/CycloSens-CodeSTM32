@@ -1,0 +1,5 @@
+hrs_app.c:81:6:HRS_Notification	16	static
+hrs_app.c:131:6:HRSAPP_Init	8	static
+hrs_app.c:140:13:HRSAPP_Measurement	4	static
+hrs_app.c:148:13:HrMeas	8	static
+hrs_app.c:163:17:HRSAPP_Read_RTC_SSR_SS	4	static

@@ -1,0 +1,12 @@
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:484:13:HAL_COMP_MspInit	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:233:19:HAL_COMP_Init	24	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:499:13:HAL_COMP_MspDeInit	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:435:19:HAL_COMP_DeInit	16	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:693:19:HAL_COMP_Start	8	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:745:19:HAL_COMP_Stop	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:850:19:HAL_COMP_Lock	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:911:10:HAL_COMP_GetOutputLevel	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:925:13:HAL_COMP_TriggerCallback	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:787:6:HAL_COMP_IRQHandler	8	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:959:23:HAL_COMP_GetState	0	static
+../Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_comp.c:979:10:HAL_COMP_GetError	0	static

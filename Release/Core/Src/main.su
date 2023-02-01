@@ -1,0 +1,17 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:364:22:LL_AHB1_GRP1_EnableClock	8	static
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	8	static
+../Core/Src/main.c:190:6:SystemClock_Config	112	static,ignoring_inline_asm
+../Core/Src/main.c:250:6:PeriphCommonClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:393:6:MX_LPUART1_UART_Init	8	static,ignoring_inline_asm
+../Core/Src/main.c:441:6:MX_USART1_UART_Init	8	static,ignoring_inline_asm
+../Core/Src/main.c:779:6:BeginNotification	8	static
+../Core/Src/main.c:790:6:FinishNotification	8	static
+../Core/Src/main.c:828:19:SendUART	0	static
+../Core/Src/main.c:838:5:__io_putchar	16	static
+../Core/Src/main.c:846:6:Clear_LED	8	static
+../Core/Src/main.c:874:6:Set_LED	8	static
+../Core/Src/main.c:94:5:main	64	static,ignoring_inline_asm
+../Core/Src/main.c:902:6:Toggle_LED	8	static
+../Core/Src/main.c:798:6:TimerIRQ	8	static
+../Core/Src/main.c:930:6:SEND_MES_BLESTATUS	8	static
+../Core/Src/main.c:1079:6:Error_Handler	0	static,ignoring_inline_asm
